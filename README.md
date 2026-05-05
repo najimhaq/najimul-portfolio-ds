@@ -1,56 +1,4 @@
 
-# Najimul Portfolio
-
-Personal portfolio website built with Next.js 16, React 19, Tailwind CSS, and Framer Motion.
-
-## Tech Stack
-
-- Next.js 16
-- React 19
-- Tailwind CSS
-- Framer Motion
-- HeroUI
-- DaisyUI
-- Lucide React Icons
-
-najimul-portfolio/
-├── src/
-│   ├── app/
-│   │   ├── 8layout.js
-│   │   ├── 9page.js
-│   │   ├── 10globals.css
-│   │   └── favicon.ico
-│   ├── components/
-│   │   ├── 1/7contact.jsx
-│   │   ├── 1/1Navbar.jsx
-│   │   ├── 1/3Hero.jsx
-│   │   ├── 1/4About.jsx
-│   │   ├── 1/6Projects.jsx
-│   │   ├── 1/5Skills.jsx
-│   │   ├── 1/8Footer.jsx
-│   │   └── 1/2ThemeToggle.jsx
-│   └── data/
-│       └── projectsData.js
-├── public/
-│   └── (images)
-├── 6.gitignore
-├── 5eslint.config.mjs
-├── 2next.config.mjs
-├── 1package.json
-├── 4postcss.config.mjs
-├── 3tailwind.config.js
-└── 7README.md
-
-public/
-└── projects/
-    ├── ecommerce.jpg
-    ├── taskmanager.jpg
-    ├── blog.jpg
-    └── portfolio.jpg
-
-
-## Getting Started
-
 
 <div align="center">
   <img src="https://i.ibb.co/HpkzFzL9/Screenshot-2026-05-05-at-9-25-45-PM.png" alt="Najimul" width="120" />
@@ -67,9 +15,11 @@ public/
 
 ---
 
-## 📖 About The Project
+## 📖 About Me
 
-**SunCart** is a modern e-commerce web application focused on summer essentials. From premium sunglasses to beach accessories, skincare products to trendy summer outfits – SunCart brings the sunshine to your doorstep. Built with cutting-edge technologies, this project demonstrates a complete e-commerce solution with seamless user experience, beautiful animations, and robust authentication.
+I am a passionate Full Stack Developer. I have been working in
+the web development industry since 2021. I love building
+user-friendly and performant applications using modern technologies.
 
 ### 🎯 Key Features
 
@@ -111,7 +61,7 @@ public/
 
 | Color Name | Hex Code | Usage |
 |------------|----------|-------|
-| Sunset Orange | `#FF7E36` | Primary buttons, links, highlights |
+| Sunset Orange | `#e11d48` | Primary buttons, links, highlights |
 | Summer Yellow | `#FFD166` | Secondary elements, badges |
 | Fresh Teal | `#4ECDC4` | Accent colors, special offers |
 | Sand White | `#FDF8F0` | Global background |
@@ -169,3 +119,42 @@ This project is licensed under the MIT License - see the LICENSE file for detail
     <a href="mdnajimulhaque@gmail.com">Contact</a>
   </p>
 </div>
+
+
+najimul-portfolio/
+├── src/
+│   ├── app/
+│   │   ├── 8layout.js
+│   │   ├── 9page.js
+│   │   ├── 10globals.css
+│   │   └── favicon.ico
+│   ├── components/
+│   │   ├── 1/7contact.jsx
+│   │   ├── 1/1Navbar.jsx
+│   │   ├── 1/3Hero.jsx
+│   │   ├── 1/4About.jsx
+│   │   ├── 1/6Projects.jsx
+│   │   ├── 1/5Skills.jsx
+│   │   ├── 1/8Footer.jsx
+│   │   └── 1/2ThemeToggle.jsx
+│   └── data/
+│       └── projectsData.js
+├── public/
+│   └── (images)
+├── 6.gitignore
+├── 5eslint.config.mjs
+├── 2next.config.mjs
+├── 1package.json
+├── 4postcss.config.mjs
+├── 3tailwind.config.js
+└── 7README.md
+
+public/
+└── projects/
+    ├── ecommerce.jpg
+    ├── taskmanager.jpg
+    ├── blog.jpg
+    └── portfolio.jpg
+
+
+## Getting Started
