@@ -61,3 +61,16 @@ body {
 .animate-float {
   animation: float 3s ease-in-out infinite;
 }
+/* Technical Lines Animation */
+@keyframes moveLines {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(50px, 50px);
+  }
+}
+
+.animate-lines {
+  animation: moveLines 20s linear infinite;
+}
