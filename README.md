@@ -47,18 +47,18 @@ public/
     ├── taskmanager.jpg
     ├── blog.jpg
     └── portfolio.jpg
-    
+
 
 ## Getting Started
 
 
 <div align="center">
-  <img src="https://i.ibb.co/3mbXRWBd/Screenshot-2026-05-03-at-2-01-55-PM.png" alt="SunCart Logo" width="120" />
-  <h1>☀️ SunCart - Summer Essentials Store</h1>
-  <p><strong>Chasing Sun, Dressed in Style</strong></p>
+  <img src="https://i.ibb.co/HpkzFzL9/Screenshot-2026-05-05-at-9-25-45-PM.png" alt="Najimul" width="120" />
+  <h1>Najimul Portfolio</h1>
+  <p><strong>Full Stack Developer | Next.js Expert</strong></p>
 
   [![Live Demo](https://img.shields.io/badge/Live_Demo-FF7E36?style=for-the-badge&logo=vercel&logoColor=white)](https://najimul.xyz)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/najimhaq/suncart-summer-essentials-store)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/najimhaq/najimul-portfolio-ds)
   [![Next.js](https://img.shields.io/badge/Next.js-16.2.4-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
   [![React](https://img.shields.io/badge/React-19.2.4-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.2.4-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
