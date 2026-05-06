@@ -32,19 +32,19 @@ export default function Contact() {
     {
       icon: FaEnvelope,
       label: 'Email',
-      value: 'najimul@example.com',
+      value: 'najimulhaque@gmail.com',
       href: 'mailto:najimul@example.com',
     },
     {
       icon: FaPhone,
       label: 'Phone',
-      value: '+880 1234 567890',
+      value: '+880 1712 155987',
       href: 'tel:+8801234567890',
     },
     {
       icon: FaMapMarkerAlt,
       label: 'Address',
-      value: 'Dhaka, Bangladesh',
+      value: 'Khulna, Bangladesh',
       href: null,
     },
   ];

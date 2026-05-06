@@ -44,7 +44,7 @@ export default function Navbar() {
         <div className='flex items-center justify-between'>
           <button
             onClick={() => handleNavClick('#home')}
-            className='text-2xl font-bold bg-gradient-to-r from-rose-500 to-pink-600 bg-clip-text text-transparent hover:opacity-80 transition'
+            className='text-4xl font-candy font-bold bg-gradient-to-r from-rose-500 to-pink-600 bg-clip-text text-transparent hover:opacity-80 transition'
           >
             Najimul
           </button>
